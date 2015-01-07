@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="action_settings">Parametres</string>
+    <string name="app_name">Bonjour à tous !</string>
+    <string name="hello_world">Bonjour, Nicolas</string>
+
+</resources>
